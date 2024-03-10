@@ -4,7 +4,7 @@ import Image from "next/image";
 function HomePage() {
   return (
     <>
-      <div className="container max-w-4xl m-auto px-4 mt-20">
+      <div>
         <Image
           src="/smart-1.jpg"
           alt="avatar"
