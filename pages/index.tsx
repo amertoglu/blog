@@ -13,6 +13,7 @@ function HomePage() {
           </p>
 
           <p>Thanks for stopping by, and I hope you enjoy exploring my website!</p>
+        <p><a target="_blank" href="https://github.com/amertoglu">Github</a></p>
         </div>
       </Container>
     </>
