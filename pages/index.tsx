@@ -19,8 +19,8 @@ function HomePage() {
 
       <div className="container max-w-4xl m-auto px-4 mt-20">
         <Image
-          src="https://i.ibb.co/34q9QHH/smart.jpg"
-          alt="my desk"
+          src="/smart-1.jpg"
+          alt="avatar"
           width="70"
           height="70"
         />
