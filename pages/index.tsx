@@ -6,11 +6,10 @@ function HomePage() {
     <>
       <div>
         <Image
-          src="/smart-1.jpg"
-          alt="avatar"
+          src="https://i.ibb.co/yPfYb9Y/smart-1.jpg"
           width="70"
           height="70"
-          border-radius="50px"
+          border-radius="50"
         />
       </div>
       
