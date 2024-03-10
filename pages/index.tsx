@@ -10,7 +10,7 @@ function HomePage() {
           alt="avatar"
           width="70"
           height="70"
-          border-radius="50%"
+          border-radius="50px"
         />
       </div>
       
