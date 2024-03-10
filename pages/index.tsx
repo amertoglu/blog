@@ -4,7 +4,7 @@ import Image from "next/image";
 function HomePage() {
   return (
     <>
-      <div>
+      <div className="container max-w-4xl m-auto px-4 mt-20">
         <Image
           src="https://i.ibb.co/yPfYb9Y/smart-1.jpg"
           width="70"
