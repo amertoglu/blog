@@ -4,6 +4,16 @@ import Image from "next/image";
 function HomePage() {
   return (
     <>
+      <div className="container max-w-4xl m-auto px-4 mt-20">
+        <Image
+          src="/smart-1.jpg"
+          alt="avatar"
+          width="70"
+          height="70"
+          border-radius="50%"
+        />
+      </div>
+      
       <Container>
         <div className="space-y-6">
           <h1 className="text-2xl font-bold">
@@ -16,15 +26,6 @@ function HomePage() {
           <p>Thanks for stopping by, and I hope you enjoy exploring my website!</p>
         </div>
       </Container>
-
-      <div className="container max-w-4xl m-auto px-4 mt-20">
-        <Image
-          src="/smart-1.jpg"
-          alt="avatar"
-          width="70"
-          height="70"
-        />
-      </div>
     </>
   );
 }
