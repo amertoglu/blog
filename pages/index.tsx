@@ -1,18 +1,10 @@
 import Container from "../components/container";
-import Image from "next/image";
 
 function HomePage() {
   return (
     <>
-      
       <Container>
         <div className="space-y-6">
-          <Image
-          src="https://i.ibb.co/yPfYb9Y/smart-1.jpg"
-          width="70"
-          height="70"
-          border-radius="50"
-        />
           <h1 className="text-2xl font-bold">
             Hello there! 👋
           </h1>
