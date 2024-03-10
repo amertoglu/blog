@@ -5,6 +5,7 @@ function HomePage() {
     <>
       <Container>
         <div className="space-y-6">
+          <img src="https://i.ibb.co/yPfYb9Y/smart-1.jpg" style="border-radius:50px" width="80" height="80"/>
           <h1 className="text-2xl font-bold">
             Hello there! 👋
           </h1>
