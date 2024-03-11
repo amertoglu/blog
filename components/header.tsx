@@ -8,7 +8,8 @@ export default function Header() {
         <nav className="flex space-x-4">
           <Link href="/">/</Link>
           <Link href="/posts">Posts</Link>
-          <Link href="https://github.com/amertoglu">Github</Link>
+          <Link target="_blank" href="https://github.com/amertoglu">Works</Link>
+          <Link target="_blank" href="https://twitter.com/web0dev">Twitter</Link>
         </nav>
       </Container>
     </header>
